@@ -5,7 +5,7 @@
 I'm a full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve  real-world problems and always work with an end goal in mind. I provide good quality work and maintain excellent communication. Most of the time I work in Back End development but I also work in Font End Web development.
 
 
-Skills & Experience: 
+Skills & Experience: <br>
 ✅ HTML5 / CSS / Bootstrap <br>
 ✅ JavaScript <br>
 ✅ PHP / Laravel <br>
