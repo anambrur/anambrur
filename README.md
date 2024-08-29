@@ -15,8 +15,7 @@ Skills & Experience: <br>
 ✅ Photoshop <br>
 
 
-- 🔭 I’m currently working on Fiver 
-- 🌱 I’m currently learning Laravel 
+- 🔭 I’m currently working on Next Page Technology Limited
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anambrur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdmahamudulhasan.anam.1)  
