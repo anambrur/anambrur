@@ -32,7 +32,7 @@ Skills & Experience: <br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
     </a>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" />
@@ -47,6 +47,7 @@ Skills & Experience: <br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Adobe_Photoshop_Logo_2023.svg" alt="photoshop" width="40" height="40" />
     </a>
 </p>
+
 
 
 
