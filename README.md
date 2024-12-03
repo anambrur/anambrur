@@ -68,6 +68,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en" alt="GitHub Stats" width="45%" height="150" />
     <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=0" alt="GitHub Streak Stats" width="45%" height="150" />
 </p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anambrur&cache_seconds=0)
+
 
 
 <p align="center">
