@@ -98,5 +98,5 @@
 ---
 
 ### 📧 Contact Me
-📫 **Email:** [anambrur@example.com](mailto:anambrur@example.com)  
-🌐 **Portfolio:** [www.your-portfolio-link.com](https://www.your-portfolio-link.com)
+📫 **Email:** [anambrur@example.com](mailto:anambrur@gmail.com)  
+🌐 **Portfolio:** [www.your-portfolio-link.com](https://www.mhanam.com)
