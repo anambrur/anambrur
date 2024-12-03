@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center">
-    <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="Web Developer" width="100%"/>
+    <img src="https://github.com/anambrur/anambrur/blob/main/github-header-image%20(2).png" alt="Web Developer" width="100%"/>
 </p>
 
 ---
@@ -98,5 +98,5 @@
 ---
 
 ### 📧 Contact Me
-📫 **Email:** [anambrur@example.com](mailto:anambrur@gmail.com)  
-🌐 **Portfolio:** [www.your-portfolio-link.com](https://www.mhanam.com)
+📫 **Email:** [anambrur@gmail.com.com](mailto:anambrur@gmail.com)  
+🌐 **Portfolio:** [www.mhanam.com](https://www.mhanam.com)
