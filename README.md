@@ -66,7 +66,5 @@ Skills & Experience: <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anambrur&cache_seconds=0)
 
-![GitHub metrics](https://metrics.lecoq.io/anambrur)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anambrur)  
