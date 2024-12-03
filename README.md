@@ -64,7 +64,7 @@
 ---
 
 ### 🔥 GitHub Stats
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en" alt="GitHub Stats" width="50%"/>
     <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=3600" alt="GitHub Streak Stats" width="50%"/>
 </p>
