@@ -41,7 +41,7 @@
 ### 🔥 GitHub Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en" alt="anambrur" width="50%"/>
-    <img src="https://github-readme-streak-stats.demolab.com/?user=anambrur&cache_seconds=3600" alt="GitHub streak stats" width="50%"/>
+    <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=0)" alt="GitHub streak stats" width="50%"/>
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anambrur&layout=compact" alt="Top Languages" width="50%"/>
