@@ -44,7 +44,7 @@
     <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=0)" alt="GitHub streak stats" width="50%"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anambrur&layout=compact" alt="Top Languages" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anambrur&layout=compact" alt="Top Languages" width="100%"/>
 </p>
 
 ---
