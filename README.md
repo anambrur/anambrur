@@ -64,16 +64,11 @@
 ---
 
 ### 🔥 GitHub Stats
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=3600" alt="GitHub Streak Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
+    <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=3600" alt="GitHub Streak Stats" width="45%"/>
+</p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anambrur&layout=compact" alt="Top Languages" width="50%"/>
