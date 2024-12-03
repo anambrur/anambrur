@@ -2,7 +2,8 @@
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems and always work with an end goal in mind. I provide good quality work and maintain excellent communication. Most of the time I work in Back End development but I also work in Front End Web development.
+I'm a full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve  real-world problems and always work with an end goal in mind. I provide good quality work and maintain excellent communication. Most of the time I work in Back End development but I also work in Font End Web development.
+
 
 Skills & Experience: <br>
 ✅ HTML5 / CSS / Bootstrap <br>
@@ -47,7 +48,13 @@ Skills & Experience: <br>
     </a>
 </p>
 
+
+
+
+
+
 - 🔭 I’m currently working on Next Page Technology Limited
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anambrur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdmahamudulhasan.anam.1)  
 
@@ -59,5 +66,7 @@ Skills & Experience: <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anambrur&cache_seconds=0)
 
+![GitHub metrics](https://metrics.lecoq.io/anambrur)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anambrur)  
