@@ -67,7 +67,7 @@
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en" alt="GitHub Stats" width="48%" height="150" /> -->
     <img src="https://github-readme-stats.vercel.app/api?username=anambrur&show_icons=true&locale=en&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=anambrur&cache_seconds=10" alt="GitHub Streak Stats" width="48%" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=anambrur" alt="GitHub Streak Stats" width="48%" height="150" />
 </p>
 
 
